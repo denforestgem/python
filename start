@@ -1,1 +1,2 @@
 sudo apt install -y curl wget git build-essential python3 python3-pip python3-venv python3.10-dev screen
+cd home
